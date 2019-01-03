@@ -1,0 +1,158 @@
+body{
+  margin:0px;
+  text-align: center;
+}
+.head{
+  background-color: #c8e8ed;
+}
+.margin{
+font-size: 50px;
+margin-top:0;
+padding: 100px;
+color: #13abc4;
+font-family: 'Great Vibes', cursive;
+}
+.pad{
+  position: absolute;
+  top: 150px;
+  right: 630px;
+  color: #13abc4;
+  font-family: cursive;
+}
+.imagem{
+  position:absolute;
+  top: 150px;
+  right: 950px;
+}
+.imaget{
+  position:absolute;
+  top: 70px;
+  left: 950px;
+}
+.pic1{
+  width: 200px;
+  border-radius: 100%;
+  padding-top: 140px;
+  position: absolute;
+  right: 200px;
+  top: 1400px;
+}
+.pic{
+  width: 200px;
+  border-radius: 100%;
+  padding-top: 70px;
+}
+.pic2{
+  width: 200px;
+  border-radius: 100%;
+  padding-top: 70px;
+  position: absolute;
+  left: 220px;
+  bottom: -800px;
+}
+.para{
+  font-size: 20px;
+    font-family: cursive;
+}
+.space{
+  padding-top: 100px;
+}
+.move{
+  line-height: 1.5;
+  text-align: left;
+  font-size: 20px;
+  font-family: cursive;
+  position: absolute;
+  left: 655px;
+  bottom: -800px;
+}
+.design1{
+  padding-top: 50px;
+  position: absolute;
+  right: 455px;
+  bottom: -700px;
+}
+.what{
+  padding-bottom: 120px;
+}
+h1{
+  color: #34a7b2;
+  font-size: 50px;
+}
+h2{
+  color: #34a7b2;
+}
+.midpara{
+  padding-top: 150px;
+}
+.developer{
+  line-height: 1.5;
+  text-align: left;
+  font-size: 20px;
+  font-family: cursive;
+  padding-top: 100px;
+  position: absolute;
+  left: 230px;
+  bottom: -1060px;
+}
+.deve{
+        position: absolute;
+        top: 1450px;
+        left: 230px;
+        padding-top: 100px;
+}
+.homelast{
+  padding-top: 300px;
+}
+.help{
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+.project{
+  line-height: 1.5;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-family: cursive;
+}
+.Social{
+  background-color: #c8e8ed;
+  margin: 0px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.facebook{
+  text-decoration: none;
+  margin: 50px;
+  color: #20716a;
+}
+.facebook:hover{
+  color: #f2f4fb;
+}
+.twitter{
+  text-decoration: none;
+  color: #20716a;
+}
+.twitter:hover{
+  color: #f2f4fb;
+}
+.message{
+  background-color: #20716a;
+  border: solid 30px;
+  border-top: solid 10px;
+  border-bottom: solid 10px;
+  border-color: #20716a;
+  border-radius: 28px;
+}
+.mail{
+    text-decoration: none;
+    color: #f2f4fb;
+}
+.spac{
+  padding-bottom: 100px;
+}
+.icon{
+padding-right: 5px;
+position: relative;
+top: 2px;
+}
